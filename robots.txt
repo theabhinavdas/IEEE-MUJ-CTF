@@ -1,0 +1,2 @@
+Disallow: *
+Last flag: leet_haxor
